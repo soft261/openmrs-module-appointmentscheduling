@@ -4,8 +4,7 @@ Appointment Scheduling Module
 
 ## Overview
 
-This module is for scheduling patient appointments and managing provider schedules.
-This module also allows for managing the patient queue in a clinic.
+The Appointment Scheduling Module is for scheduling patient appointments and managing provider schedules. This module also allows for managing the patient queue in a clinic. This README contains information primarily pertient to developers. If you are a user looking for user related instruction, navigate to the [Wiki page section](#wiki) of this documentation.
 
 <br>
 
@@ -26,10 +25,7 @@ File tree.
 
 ## Build Instructions
 
-To build the module using maven, following these steps.
-
-1. Step 1
-2. Step 2
+If your module's file tree is set up correctly [(see section above)](#file-tree), building and packaging the app is a simple process. Navigate to the module's root directory, and run the command `mvn package`. This will package the application according to maven's typical package instructions. The packaged module will be available in /omod/target
 
 <br>
 
