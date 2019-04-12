@@ -12,6 +12,15 @@ This module also allows for managing the patient queue in a clinic.
 ## File Tree
 
 File tree.
+* api	
+* omod
+* .gitattributes	Lists git attributes that were changed from default.
+* .gitignore		Lists files to be ignored when pushing to git
+* .travis.yml
+* LICENSE.txt
+* OpenMRSFormatter.xml
+* README.md
+* pom.xml	
 
 <br>
 
