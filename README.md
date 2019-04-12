@@ -4,7 +4,8 @@ Appointment Scheduling Module
 
 ## Overview
 
-Module for scheduling patient appointments and managing provider schedule.
+This module is for scheduling patient appointments and managing provider schedules.
+This module also allows for managing the patient queue in a clinic.
 
 <br>
 
