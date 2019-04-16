@@ -10,15 +10,14 @@ The Appointment Scheduling Module is for scheduling patient appointments and man
 
 ## File Tree
 
-File tree.
-* api			-
-* omod			- Contains all module java and test files
+* api/			- This folder contains all Appointment Scheduling api java and test files
+* omod/			- This folder contains all of the module's java and test files
 * .gitattributes	- Lists git attributes that were changed from default.
-* .gitignore		- Lists files to be ignored when pushing to git
-* .travis.yml		-
-* LICENSE.txt		-
-* OpenMRSFormatter.xml	-
-* README.md		- Describes the Appointment Scheduling module
+* .gitignore		- Lists files to be ignored when pushing to git.
+* .travis.yml		- Configures Travis CI for automated testing.
+* LICENSE.txt		- OpenMRS license agreement.
+* OpenMRSFormatter.xml	- OpenMRS formatting file.
+* README.md		- Describes the Appointment Scheduling module.
 * pom.xml		- Used for building the project with maven.
 
 <br>
