@@ -10,8 +10,8 @@ The Appointment Scheduling Module is for scheduling patient appointments and man
 
 ## File Tree
 
-* api/			- This folder contains all Appointment Scheduling api java and test files
-* omod/			- This folder contains all of the module's java and test files
+* api/			- This folder contains all Appointment Scheduling API java and test files.
+* omod/			- This folder contains all of the module's java and test files.
 * .gitattributes	- Lists git attributes that were changed from default.
 * .gitignore		- Lists files to be ignored when pushing to git.
 * .travis.yml		- Configures Travis CI for automated testing.
